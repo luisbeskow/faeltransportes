@@ -191,7 +191,7 @@ section{ float:left; width:100%; background:#FFF; text-align:left; padding:25px 
 .download-button:hover::before{ top:13px; }
 
 .mapinfo{ float:left; width:100%; min-width:310px; position:relative; margin-top:15px; padding-top:10px; border-top:#EAEAEA; }
-.mapinfo .map{ float:left; width:300px; height:310px; position:relative; z-index:10; background:url(img/mapa-atuacao.png) no-repeat center; }
+.mapinfo .map{ float:left; width:300px; height:310px; position:relative; z-index:10; background:url(img/mapa-atuacao2.jpg) no-repeat center; }
 
 .mapinfo .map a{ position:absolute; margin:0; left:0; top:0; width:30px; height:30px; border-radius:100px;}
 .mapinfo .map a:hover{ margin-top:5px; }
