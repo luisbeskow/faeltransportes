@@ -73,8 +73,8 @@ nav li a:hover{  color:#AEAE39; }
 
 
 .home .box-1{ background-image:url(img/bg-1.png); background-position:left bottom; background-repeat:no-repeat;}
-.home .box-2{ background-image:url(img/bg-2.png); background-position:left top; background-repeat:no-repeat;}
-.home .box-3{ background-image:url(img/bg-3.png); background-position:left top; background-repeat:no-repeat;}
+.home .box-2{ background-image:url(img/facebook1.png); background-position:left top; background-repeat:no-repeat;}
+.home .box-3{ background-image:url(img/facebook1.png); background-position:left top; background-repeat:no-repeat;}
 
 
 .three-columns .col-right{ float:right; width:83%; }
